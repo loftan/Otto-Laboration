@@ -1,0 +1,27 @@
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+  padding-top: 50px;
+    row-gap: 45px;
+}
+ .card { 
+    width: 18rem;
+    height: 35rem;
+
+ }
+
+ .card-title {
+     text-align: center;
+     
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+     
+
+
